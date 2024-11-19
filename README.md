@@ -88,11 +88,6 @@ This format aligns with Kaggle's requirements.
 
 ---
 
-
-   ```  
-
----
-
 ## Results  
 
 - The Random Forest Classifier achieved strong predictive performance with balanced handling of categorical and numerical features.  
